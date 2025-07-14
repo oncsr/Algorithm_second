@@ -61,3 +61,14 @@
 | 자료구조 | <a href="https://www.acmicpc.net/problem/1918">후위 표기식</a> |
 ---
 
+
+### Week 02 (2025.07.14 ~ 2025.07.20)
+| **알고리즘 유형** | **문제** |
+|------|------|
+| BFS | <a href="https://www.acmicpc.net/problem/14677">병약한 윤호</a> |
+| 다익스트라 | <a href="https://www.acmicpc.net/problem/17396">백도어</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/21608">상어 초등학교</a> |
+| DP | <a href="https://www.acmicpc.net/problem/14925">목장 건설하기</a> |
+| 자료구조 | <a href="https://www.acmicpc.net/problem/3078">좋은 친구</a> |
+---
+
