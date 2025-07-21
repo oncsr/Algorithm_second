@@ -72,3 +72,14 @@
 | 자료구조 | <a href="https://www.acmicpc.net/problem/3078">좋은 친구</a> |
 ---
 
+
+### Week 03 (2025.07.21 ~ 2025.07.27)
+| **알고리즘 유형** | **문제** |
+|------|------|
+| BFS | <a href="https://www.acmicpc.net/problem/4991">로봇 청소기</a> |
+| 다익스트라 | <a href="https://www.acmicpc.net/problem/1719">택배</a> |
+| 분리 집합 | <a href="https://www.acmicpc.net/problem/20955">민서의 응급 수술</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/20058">마법사 상어와 파이어스톰</a> |
+| DP | <a href="https://www.acmicpc.net/problem/2293">동전 1</a> |
+---
+
