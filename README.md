@@ -83,3 +83,14 @@
 | DP | <a href="https://www.acmicpc.net/problem/2293">동전 1</a> |
 ---
 
+
+### Week 03 (2025.07.28 ~ 2025.08.03)
+| **알고리즘 유형** | **문제** |
+|------|------|
+| 그리디 | <a href="https://www.acmicpc.net/problem/1826">연료 채우기</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/2310">어드벤처 게임</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/2138">전구와 스위치</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/18427">함께 블록 쌓기</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/15591">MooTube (Silver)</a> |
+---
+
