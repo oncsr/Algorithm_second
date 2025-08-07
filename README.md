@@ -94,3 +94,14 @@
 | ??? | <a href="https://www.acmicpc.net/problem/15591">MooTube (Silver)</a> |
 ---
 
+
+### Week 05 (2025.08.07 ~ 2025.08.10)
+| **알고리즘 유형** | **문제** |
+|------|------|
+| ??? | <a href="https://www.acmicpc.net/problem/9881">Ski Course Design</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/2602">돌다리 건너기</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/6987">월드컵</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/3987">보이저 1</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/16397">탈출</a> |
+---
+
