@@ -105,3 +105,14 @@
 | ??? | <a href="https://www.acmicpc.net/problem/16397">탈출</a> |
 ---
 
+
+### Week 06 (2025.08.18 ~ 2025.08.24)
+| **알고리즘 유형** | **문제** |
+|------|------|
+| ??? | <a href="https://www.acmicpc.net/problem/14226">이모티콘</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/2617">구슬 찾기</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/21940">가운데에서 만나기</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/2836">수상 택시</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/14658">하늘에서 별똥별이 빗발친다다</a> |
+---
+
