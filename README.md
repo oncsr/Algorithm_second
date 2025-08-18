@@ -113,6 +113,6 @@
 | ??? | <a href="https://www.acmicpc.net/problem/2617">구슬 찾기</a> |
 | ??? | <a href="https://www.acmicpc.net/problem/21940">가운데에서 만나기</a> |
 | ??? | <a href="https://www.acmicpc.net/problem/2836">수상 택시</a> |
-| ??? | <a href="https://www.acmicpc.net/problem/14658">하늘에서 별똥별이 빗발친다다</a> |
+| ??? | <a href="https://www.acmicpc.net/problem/14658">하늘에서 별똥별이 빗발친다</a> |
 ---
 
